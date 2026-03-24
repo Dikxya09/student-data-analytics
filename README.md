@@ -9,7 +9,9 @@ in Math, Science, English, and their attendance percentages.
 
 # Tools Used
 - Python  
-- Pandas  
+- Pandas
+- Matplotlib
+- Seaborn
 
 # Files
 - students.csv 
